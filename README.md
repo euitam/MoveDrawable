@@ -17,3 +17,5 @@ Then you will be able to compress assets.
 ## TODO
 - Right now the script only take PNGs as input, should change it to take also at least JPGs.
 
+## License
+[Apache license 2.0](https://github.com/euitam/MoveDrawable/blob/master/LICENSE)
