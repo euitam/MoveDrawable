@@ -1,7 +1,8 @@
+
 # MoveDrawable
 A Python script to automatically move, rename and compress (webP) the assets given to you by your designers.
 
-Usually when you receive the assets from your designers, if they work with Sketch, the files are all in the same folder and named like fillname@1x.png, fillname@2x.png, etc.
+Usually when you receive the assets from your designers, if they work with Sketch, the files are all in the same folder and named like `fillname@1x.png`, `fillname@2x.png`, etc.
 This script take those files and rename them, move them to the right Android source folder (mdpi, hdpi, ...) and even compress them to the webP format.
 
 ## How to use it
@@ -15,3 +16,4 @@ Then you will be able to compress assets.
 
 ## TODO
 - Right now the script only take PNGs as input, should change it to take also at least JPGs.
+
